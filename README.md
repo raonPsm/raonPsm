@@ -50,8 +50,3 @@ Here are some ideas to get you started:
 <div align= "center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
 </div>
-
-<div align= "center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=raonPsm&custom_title=raonPsm's%20Github%20Stat&theme=tokyonight&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raonPsm&layout=compact&theme=tokyonight"/>  
-</div>
