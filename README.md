@@ -30,18 +30,37 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff">
     <img src="https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff">
     <img src="https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?logo=Hibernate&logoColor=white">
     <br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
     <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
-    <br/> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
+    <br/> <img src="https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647">
     <img src="https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff">
     <br/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?logo=googlesheets&logoColor=white">
+    <br/> <img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?logo=claudecode&logoColor=white">
+    
 </div>
+
+<div align= "center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌱 I’m currently learning </h2> 
+  <br> <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff">
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff">
+  <img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff">
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/apachekafka-%23231F20.svg?logo=apachekafka&logoColor=white">
+  <br/> 
 
 <div align= "center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
